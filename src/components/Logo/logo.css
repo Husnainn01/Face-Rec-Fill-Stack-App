@@ -1,0 +1,21 @@
+.Tilt{
+    margin: 0; 
+    padding: 0; 
+    font-family: 'Courier New', Courier, monospace;
+    height: 150px;
+    width: 150px;
+
+}
+
+.Tilt-inner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    width: 150px;
+    background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);
+}
+
+.Tilt-inner img{
+    padding-top: 3x;
+}
